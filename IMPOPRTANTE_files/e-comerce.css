@@ -2,12 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    
 }
 /* .dav{
     border: 3px solid blue;
 } */
-
 .tarjeta{
     width: 60%;
     max-width: 1000px;
@@ -16,41 +14,34 @@
     position: relative; */
     margin: auto;
     padding: 60px;
-    background: #faebd7;
+    background: #FAEBD7;
     margin-top: 100px;
     margin-right: 10px;
     display: left;
     margin-left: 10px;
     float: left;
-    
 }
 .sub-title{
     font-size: 29px;
     font-weight: 300px;
     /* margin-bottom: 5px; */
     padding-top: 10px;
-  
 }
 .img__1{
     height: 20px 20px ;
-    
 }
-
 .tarjeta .img__1{
     width: 500px;
     float: right;
     padding: 0 200px 10px;
     margin-right: 100px;
     padding-top: 10px;
-  
 }
-
 .tarjeta p {
     font-size: 18px;
     font-weight: 300px;
     margin-top: 20px;
 }
-
 .bbb{
     background: #000;
     color: aliceblue;
@@ -59,36 +50,21 @@
     padding-right: 10px;
     padding-bottom: 10px;
 }
-
-
 .caa{
     font-size: 18px;
     font-weight: 300px;
     margin-top: 20px;
 }
-
-
-
 .abajo{
     width: 100%;
     margin-top: 100px;
     float: left;
-  
-    
+    border: 1px solid;
 }
-
-
-
-
 .img__2{
     height: 200px;
 }
-
-
-
-
-
 .img__3{
-  
+    border: 1px solid blue;
     height: 200px;
 }
