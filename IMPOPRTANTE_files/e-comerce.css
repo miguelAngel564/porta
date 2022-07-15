@@ -27,20 +27,21 @@
     /* margin-bottom: 5px; */
     padding-top: 10px;
 }
-.img__1{
+/* .img__1{
     height: 20px 20px ;
-}
+} */
 .tarjeta .img__1{
-    width: 500px;
+    width: 245px;
     float: right;
-    padding: 0 200px 10px;
-    margin-right: 100px;
+ 
     padding-top: 10px;
+    
 }
-.tarjeta p {
+.tarjeta  {
     font-size: 18px;
     font-weight: 300px;
     margin-top: 20px;
+
 }
 .bbb{
     background: #000;
@@ -50,21 +51,8 @@
     padding-right: 10px;
     padding-bottom: 10px;
 }
-.caa{
-    font-size: 18px;
-    font-weight: 300px;
-    margin-top: 20px;
-}
-.abajo{
-    width: 100%;
-    margin-top: 100px;
-    float: left;
-    border: 1px solid;
-}
-.img__2{
-    height: 200px;
-}
-.img__3{
-    border: 1px solid blue;
-    height: 200px;
+
+.cen{
+    text-align: center;
+   
 }
